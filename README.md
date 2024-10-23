@@ -1,4 +1,4 @@
-This is a project of CA-1 of environmental Studies
+This is a project of CA-1 of Environmental Studies
 
 Topic :- Waste Water Treatment
 
